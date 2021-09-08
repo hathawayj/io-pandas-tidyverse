@@ -1,10 +1,3 @@
-# Data Science is about communication
-
-This repository houses an invited presentation for Kennesaw State's DS 7900 Applied Project in Analytics and Data Science. 
-
-- [html slides](https://ds7900.github.io/analytics-collaboration-hathaway/#1)
-- [pdf slides](https://github.com/DS7900/analytics-collaboration-hathaway/raw/slides/slides.pdf)
-
 ## Data parsing example
 
 I use the [marathon data](https://faculty.chicagobooth.edu/george.wu/research/marathon/) that the New York Times article [What Good Marathons and Bad Investments Have in Common] (https://www.nytimes.com/2014/04/23/upshot/what-good-marathons-and-bad-investments-have-in-common.html?rref=upshot&_r=1) used.
