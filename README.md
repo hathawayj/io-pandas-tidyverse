@@ -1,6 +1,6 @@
 ## Data parsing example
 
-I use the [marathon data](https://faculty.chicagobooth.edu/george.wu/research/marathon/) that the New York Times article [What Good Marathons and Bad Investments Have in Common] (https://www.nytimes.com/2014/04/23/upshot/what-good-marathons-and-bad-investments-have-in-common.html?rref=upshot&_r=1) used.
+I use the [marathon data](https://faculty.chicagobooth.edu/george.wu/research/marathon/) that the New York Times article [What Good Marathons and Bad Investments Have in Common](https://www.nytimes.com/2014/04/23/upshot/what-good-marathons-and-bad-investments-have-in-common.html?rref=upshot&_r=1) used.
 
 They provide links to the entire data of almost ten million records in [csv from box.com](https://uchicago.box.com/s/m6zvhtudswz8mctu1kcxr3a4a33f24qc). I have removed a few columns and provided two formats from dropbox.
 
